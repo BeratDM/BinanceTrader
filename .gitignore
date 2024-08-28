@@ -1,2 +1,4 @@
 venv
 source/config.py
+__pycache__
+*.ps1
